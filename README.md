@@ -14,12 +14,12 @@ The workshop materials are organized into four main folders: Day 1, Day 2, Day 3
 
 Day 1 focuses on fundamental concepts and hands-on exercises. It includes the following Jupyter notebooks:
 
-- [1_Vectors.ipynb](<https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/(1)_Vectors.ipynb>): Introduction to vectors, vector operations, and vector arithmetic.
-- [2_Plotting_Simple_Curves.ipynb](<https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/(2)_Plotting_Simple_Curves.ipynb>): Creating and plotting simple mathematical curves using Python.
-- [3_Matrices.ipynb](<https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/(3)_Matrices.ipynb>): Understanding matrices, matrix operations, and matrix algebra.
-- [4_Sampling_and_Visualisation_Bar,\_Histogram,\_Scatter.ipynb](<https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/(4)_Sampling_and_Visualisation_Bar,_Histogram,_Scatter.ipynb>): Sampling data and visualizing it using bar charts, histograms, and scatter plots.
-- [5_NumPy_Arrays.ipynb](<https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/(5)_NumPy_Arrays.ipynb>): Exploring NumPy arrays, fundamental data structures for numerical computation.
-- [6_Contour_Plots,\_3D_Plots,\_Optimization.ipynb](<https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/(6)_Contour_Plots,_3D_Plots,_Optimization.ipynb>): Introduction to contour plots, 3D plots, and optimization techniques in machine learning.
+- [1_Vectors.ipynb](https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/1_Vectors.ipynb): Introduction to vectors, vector operations, and vector arithmetic.
+- [2_Plotting_Simple_Curves.ipynb](https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/2_Plotting_Simple_Curves.ipynb): Creating and plotting simple mathematical curves using Python.
+- [3_Matrices.ipynb](https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/3_Matrices.ipynb): Understanding matrices, matrix operations, and matrix algebra.
+- [4_Sampling_and_Visualisation_Bar,\_Histogram,\_Scatter.ipynb](https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/4_Sampling_and_Visualisation_Bar,_Histogram,_Scatter.ipynb): Sampling data and visualizing it using bar charts, histograms, and scatter plots.
+- [5_NumPy_Arrays.ipynb](https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/5_NumPy_Arrays.ipynb): Exploring NumPy arrays, fundamental data structures for numerical computation.
+- [6_Contour_Plots,\_3D_Plots,\_Optimization.ipynb](https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/6_Contour_Plots,_3D_Plots,_Optimization.ipynb): Introduction to contour plots, 3D plots, and optimization techniques in machine learning.
 - [NumPy_Workshop.pdf](https://github.com/Matrixmang0/MLT-Workshop/blob/main/Day%201/NumPy%20Workshop.pdf): A supplementary PDF document for the NumPy workshop.
 
 ### Day 2
